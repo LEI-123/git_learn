@@ -1,3 +1,8 @@
 good git
 test
+<<<<<<< HEAD
 Creating a new branch is dev and quick
+=======
+Creating a new branch is dev and simple
+>>>>>>> featurel
+creating a new branch is simple and quick
